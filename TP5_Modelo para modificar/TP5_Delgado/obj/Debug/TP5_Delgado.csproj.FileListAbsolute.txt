@@ -1,0 +1,304 @@
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\TP5_Delgado.dll.config
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\TP5_Delgado.dll
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\TP5_Delgado.pdb
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\csc.exe
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\csc.exe.config
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\csc.rsp
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\csi.exe
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\csi.exe.config
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\csi.rsp
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.Console.dll
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.Net.Http.dll
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\vbc.exe
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\vbc.rsp
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\Antlr3.Runtime.dll
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\Newtonsoft.Json.dll
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\System.Web.Optimization.dll
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\WebGrease.dll
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\System.Web.Optimization.xml
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\Newtonsoft.Json.xml
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\Antlr3.Runtime.pdb
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\obj\Debug\TP5_Delgado.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\obj\Debug\TP5_Delgado.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\obj\Debug\TP5_Delgado.csproj.CopyComplete
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\obj\Debug\TP5_Delgado.dll
+C:\Users\Usuario\source\repos\TP5_Delgado\TP5_Delgado\obj\Debug\TP5_Delgado.pdb
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\TP5_Delgado.dll.config
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\TP5_Delgado.dll
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\TP5_Delgado.pdb
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\csc.exe
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\csc.exe.config
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\csc.rsp
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\csi.exe
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\csi.exe.config
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\csi.rsp
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.AppContext.dll
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.Collections.Immutable.dll
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.Console.dll
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.Globalization.Calendars.dll
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.IO.Compression.dll
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.IO.FileSystem.dll
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.Net.Http.dll
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.Net.Sockets.dll
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.Reflection.Metadata.dll
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.ValueTuple.dll
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.Xml.XPath.dll
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\vbc.exe
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\vbc.exe.config
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\vbc.rsp
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\VBCSCompiler.exe
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\roslyn\VBCSCompiler.exe.config
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\Antlr3.Runtime.dll
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\AspNet.ScriptManager.jQuery.dll
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\Microsoft.Web.Infrastructure.dll
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\Newtonsoft.Json.dll
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\System.Web.Optimization.dll
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\WebGrease.dll
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\System.Web.Optimization.xml
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\Newtonsoft.Json.xml
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\Antlr3.Runtime.pdb
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\es\System.Web.Optimization.resources.dll
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\obj\Debug\TP5_Delgado.csproj.AssemblyReference.cache
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\obj\Debug\TP5_Delgado.csproj.CoreCompileInputs.cache
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\obj\Debug\TP5_Delgado.csproj.CopyComplete
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\obj\Debug\TP5_Delgado.dll
+C:\Disco Viejo\BACKUP\Usuario\source\repos\TP5_Delgado\TP5_Delgado\obj\Debug\TP5_Delgado.pdb
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\obj\Debug\TP5_Delgado.csproj.AssemblyReference.cache
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\obj\Debug\TP5_Delgado.csproj.CoreCompileInputs.cache
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\obj\Debug\TP5_Delgado.dll
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\obj\Debug\TP5_Delgado.pdb
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\TP5_Delgado.dll.config
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\TP5_Delgado.dll
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\TP5_Delgado.pdb
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\csc.exe
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\csc.exe.config
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\csc.rsp
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\csi.exe
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\csi.exe.config
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\csi.rsp
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.AppContext.dll
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.Collections.Immutable.dll
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.Console.dll
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.Globalization.Calendars.dll
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.IO.Compression.dll
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.IO.FileSystem.dll
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.Net.Http.dll
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.Net.Sockets.dll
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.Reflection.Metadata.dll
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.ValueTuple.dll
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.Xml.XPath.dll
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\vbc.exe
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\vbc.exe.config
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\vbc.rsp
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\VBCSCompiler.exe
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\VBCSCompiler.exe.config
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\Antlr3.Runtime.dll
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\AspNet.ScriptManager.jQuery.dll
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\Microsoft.Web.Infrastructure.dll
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\Newtonsoft.Json.dll
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\System.Web.Optimization.dll
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\WebGrease.dll
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\System.Web.Optimization.xml
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\Newtonsoft.Json.xml
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\Antlr3.Runtime.pdb
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\es\System.Web.Optimization.resources.dll
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Disco Viejo\BACKUP\Documents\Rad\Leng3 C#\TP5_Modelo para modificar\TP5_Delgado\obj\Debug\TP5_Delgado.csproj.CopyComplete
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\TP5_Delgado.dll.config
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\TP5_Delgado.dll
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\TP5_Delgado.pdb
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\csc.exe
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\csc.exe.config
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\csc.rsp
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\csi.exe
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\csi.exe.config
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\csi.rsp
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.AppContext.dll
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.Console.dll
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.IO.Compression.dll
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.Net.Http.dll
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.Net.Sockets.dll
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.ValueTuple.dll
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\vbc.exe
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\vbc.exe.config
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\vbc.rsp
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\VBCSCompiler.exe
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\Antlr3.Runtime.dll
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\Newtonsoft.Json.dll
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\System.Web.Optimization.dll
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\WebGrease.dll
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\System.Web.Optimization.xml
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\Newtonsoft.Json.xml
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\Antlr3.Runtime.pdb
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\es\System.Web.Optimization.resources.dll
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\obj\Debug\TP5_Delgado.csproj.AssemblyReference.cache
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\obj\Debug\TP5_Delgado.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\obj\Debug\TP5_Delgado.csproj.CopyComplete
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\obj\Debug\TP5_Delgado.dll
+C:\Users\nicol\Desktop\UNI\Lenguajes 3\tp6_maquetizacion_alumno\TP5_Modelo para modificar\TP5_Delgado\obj\Debug\TP5_Delgado.pdb
